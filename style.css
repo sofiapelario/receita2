@@ -65,5 +65,19 @@ li + li {
     margin-top: 8px;
 }
 
+ol, ul {
+    margin-left: 20px;
+}
+
+.tempo li::marker {
+    color:#7a284e;
+    font-size: 12px;
+}
+
+h2 {
+    font-size: 12px;
+    color: #854632;
+}
+
 
 
