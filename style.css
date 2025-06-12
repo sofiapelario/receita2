@@ -20,5 +20,17 @@ body > div{
 div img{
     width: 100%;
     border-radius: 12px;
+    margin-bottom: 40px;
 }
+
+h1, h2{
+    font-family: "Lora", serif;
+}
+
+h1 {
+    font-size: 40px;
+    color: #312e2c;
+    margin-bottom: 24px;
+}
+
 
