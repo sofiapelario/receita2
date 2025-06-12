@@ -79,5 +79,30 @@ h2 {
     color: #854632;
 }
 
+hr {
+    border: 1px solid #e3ddd7;
+    margin-block: 32px;
+}
 
+.modo li::marker {
+    color: #854632;
+    font-weight: 700;
+}
+
+.informacoes p {
+    margin-bottom: 24px;
+}
+
+table {
+    width: 100%;
+}
+
+th, td{
+    border-bottom: 1px solid #e3ddd7;
+    width: 100%;
+}
+
+tr{
+    display: flex;
+}
 
