@@ -48,6 +48,22 @@ p{
 
 .tempo h2 {
     font-size: 20px;
+    font-weight: 600;
+    line-height: 100%;
+    font-family: "Outfit", sans-serif;
+    color: #7a284e;
+    margin-bottom: 16px;
 }
+
+li {
+    padding-left: 10px;
+    color: #5f564d;
+    line-height: 150%;
+}
+
+li + li {
+    margin-top: 8px;
+}
+
 
 
